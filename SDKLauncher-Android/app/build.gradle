@@ -71,3 +71,7 @@ tasks.whenTaskAdded { task ->
         }
     }
 }
+
+android {
+    flavorDimensions "default"
+}
